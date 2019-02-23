@@ -2,43 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa63b750-85c4-45ad-a4ab-007f2c59c5a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/test/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/springcloudexample/microservices/currencyexchangeservice/CurrencyExchangeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/springcloudexample/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/springcloudexample/microservices/currencyexchangeservice/ExchangeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/springcloudexample/microservices/currencyexchangeservice/ExchangeValueRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/test/java/com/springcloudexample/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/springcloudexample/microservices/limitsservice/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/springcloudexample/microservices/limitsservice/LimitsConfigurationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/springcloudexample/microservices/limitsservice/LimitsServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/springcloudexample/microservices/limitsservice/bean/LimitConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/test/java/com/springcloudexample/microservices/limitsservice/LimitsServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/src/main/java/com/springcloudexample/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/src/test/java/com/springcloudexample/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/java/com/springcloudexample/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/java/com/springcloudexample/microservices/netflixzuulapigatewayserver/ZuulLoggingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/test/java/com/springcloudexample/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git-localconfig-repo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../limits-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../limits-service/target/" />
@@ -59,32 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-              <folding>
-                <element signature="e#794#795#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/springcloudexample/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../limits-service/src/main/java/com/springcloudexample/microservices/limitsservice/LimitsServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +58,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../currency-conversion-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            <state relative-caret-position="-1080">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../currency-exchange-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../limits-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -132,42 +131,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/java/com/springcloudexample/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/java/com/springcloudexample/microservices/netflixzuulapigatewayserver/ZuulLoggingFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -186,6 +149,10 @@
         <option value="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/src/main/java/com/springcloudexample/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" />
         <option value="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionController.java" />
         <option value="$PROJECT_DIR$/../currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" />
       </list>
     </option>
   </component>
@@ -216,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550905014211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550905561791" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" />
   </component>
@@ -327,10 +294,53 @@
       <option name="presentableId" value="Default" />
       <updated>1550873291299</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sample Code">
+      <created>1550904985956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550904985956</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sample Code">
+      <created>1550904995495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550904995495</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sample Code">
+      <created>1550905003903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550905003903</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sample Code">
+      <created>1550905011891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550905011891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Sample Code">
+      <created>1550905019656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550905019656</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Sample Code">
+      <created>1550905028795</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550905028795</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2575" height="1415" extended-state="6" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="DB Browser" order="1" />
@@ -340,7 +350,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Job Explorer" order="6" />
       <window_info id="Designer" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="8" visible="true" weight="0.16753927" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" visible="true" weight="0.40273863" />
       <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -366,6 +376,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sample Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sample Code" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -379,13 +393,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/springcloudexample/microservices/springcloudconfigserver/SpringCloudConfigServerApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -451,13 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -560,10 +560,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/springcloudexample/microservices/currencyconversionservice/CurrencyConversionBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../currency-conversion-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        <state relative-caret-position="-1080">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../currency-exchange-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../limits-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>

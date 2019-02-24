@@ -1,0 +1,21 @@
+server:
+  port: ${PORT:8761}
+
+eureka:
+  client:
+    registryFetchIntervalSeconds: 5
+    registerWithEureka: false
+    fetch-registry: false
+    healthcheck:
+      enabled: true
+  instance:
+    leaseRenewalIntervalInSeconds: 10
+
+management:
+  security:
+    enabled: false
+
+spring:
+  boot:
+    admin:
+      context-path: /admin  #A different context path for Spring boot admin server has been provided avoiding conflict with eureka

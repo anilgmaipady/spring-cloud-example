@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: netflix-eureka-naming-server
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

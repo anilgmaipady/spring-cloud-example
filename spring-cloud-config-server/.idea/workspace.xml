@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa63b750-85c4-45ad-a4ab-007f2c59c5a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../limits-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-zuul-api-gateway-server/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../limits-service/target/" />
@@ -98,7 +101,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551030184911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551030379439" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pom.xml" />
   </component>

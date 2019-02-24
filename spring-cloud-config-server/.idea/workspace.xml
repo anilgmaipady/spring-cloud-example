@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa63b750-85c4-45ad-a4ab-007f2c59c5a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../git-localconfig-repo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../limits-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-eureka-naming-server/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../limits-service/target/" />
@@ -102,7 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551027598307" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551030057455" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pom.xml" />
   </component>
@@ -278,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="DB Browser" order="1" />
